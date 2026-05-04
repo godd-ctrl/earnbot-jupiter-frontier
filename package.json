@@ -1,0 +1,13 @@
+{
+  "name": "earnbot-jupiter-frontier",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "probe": "node src/probe.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
